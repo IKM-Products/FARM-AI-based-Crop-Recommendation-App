@@ -26,9 +26,9 @@
 
 ## 🛠️ Technologies Used
 
-* **Frontend:** Android (Java/XML) or Flutter (Dart)
-* **Backend/Logic:** Python (Machine Learning Model)
-* **ML Algorithm:** (e.g., Decision Tree / Random Forest / KNN – customizable)
+* **Frontend:** Flutter (Dart)
+* **Backend/Logic:** FastAPI
+* **ML Algorithm:** Random Forest and KNN
 * **API:** Open-Meteo API (for weather data)
 * **Dataset Source:** Kaggle agricultural datasets
 
