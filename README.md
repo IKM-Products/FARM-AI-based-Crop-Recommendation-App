@@ -27,10 +27,10 @@
 ## 🛠️ Technologies Used
 
 * **Frontend:** Flutter (Dart)
-* **Backend/Logic:** FastAPI
+* **Backend:** FastAPI
 * **ML Algorithm:** Random Forest and KNN
 * **API:** Open-Meteo API (for weather data)
-* **Dataset Source:** Kaggle agricultural datasets
+* **Database:** Firebase (Authentication and Firestore)
 
 ## 📱 How It Works
 
@@ -47,10 +47,12 @@ The goal of **FARM** is to empower farmers with smart technology by providing ac
 ## 🔮 Future Enhancements
 
 * 📈 Crop yield prediction
-* 🌱 Fertilizer recommendation system
 * 🦠 Disease detection using image processing
 * 🌐 Multi-language support for local farmers
-* ☁️ Cloud-based data storage
 
+## 📧 Contact
+For questions or feedback, please open an issue on GitHub.
 
-> "Empowering farmers with AI for smarter and sustainable agriculture."
+------
+
+⭐ If you found this project helpful, please consider giving it a star!
