@@ -39,7 +39,7 @@
 ## 🛠️ Technologies Used
 
 * **Frontend:** Flutter (Dart)
-* **Backend Integration:** FastAPI (Python)
+* **Backend Integration:** FastAPI REST API (Python)
 * **ML Algorithms:** Random Forest, KNN
 * **Weather API:** Open-Meteo API
 * **Database & Authentication:** Firebase (Authentication, Cloud Firestore)
